@@ -15,3 +15,6 @@ console.log(nothing);
 let notDefined: undefined = undefined;
 console.log(notDefined);
 
+let person:[string, string] = ["john", "adams"];
+
+// 3:17;
