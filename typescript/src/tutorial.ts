@@ -17,4 +17,6 @@ console.log(notDefined);
 
 let person:[string, string] = ["john", "adams"];
 
+console.log(person);
+
 // 3:17;
