@@ -19,4 +19,4 @@ let person:[string, string] = ["john", "adams"];
 
 console.log(person);
 
-// 5:43:00
+// 5:43
